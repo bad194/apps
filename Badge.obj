@@ -1,6 +1,6 @@
 # Blender v2.91.2 OBJ File: 'Badge.blend'
 # www.blender.org
-mtllib Badge.mtl
+mtllib https://raw.githubusercontent.com/bad194/apps/main/Badge.mtl
 o Sphere
 v 0.178293 0.980785 0.079193
 v 0.349735 0.923880 0.155343
